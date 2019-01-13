@@ -17,5 +17,6 @@ Solver().demo(3, 4, 1)
 class Apple(object):
     pass
     print("sample3")
+    print("sample")
 
 
