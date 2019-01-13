@@ -18,5 +18,6 @@ class Apple(object):
     pass
     print("sample3")
     print("sample")
+    print("hot_fix")
 
 
