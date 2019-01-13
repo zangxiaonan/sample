@@ -93,7 +93,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -114,6 +114,11 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="sample3" type="cbb8eebc:String" user="sample3" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="sample3" type="cbb8eebc:String" user="sample3" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
             </path>
           </expand>
           <select />
@@ -231,7 +236,7 @@
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" visible="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.18466899" />
       <window_info anchor="bottom" id="Version Control" order="2" />
@@ -266,7 +271,8 @@
     <MESSAGE value="护理文件起作用吗？" />
     <MESSAGE value="sample3 clifict" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Solver.py&#10;解决冲突" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Solver.py&#10;解决冲突" />
+    <MESSAGE value="merge success!" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge success!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
